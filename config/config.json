@@ -1,0 +1,17 @@
+{
+    "port": "3003",
+    "mongodb": {
+        "host": "localhost",
+        "port": "27017",
+        "database": "alphachristianpros"
+    },
+    "directory": {
+        "users": "./uploads/images/users/",
+        "taskers": "./uploads/images/tasker/"
+    },
+    "default_image": {
+        "users": "",
+        "taskers": "",
+        "category": ""
+    }
+}
