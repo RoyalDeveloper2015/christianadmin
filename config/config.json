@@ -3,7 +3,7 @@
     "mongodb": {
         "host": "localhost",
         "port": "27017",
-        "database": "alphachristianpros"
+        "database": "abctest"
     },
     "directory": {
         "users": "./uploads/images/users/",
